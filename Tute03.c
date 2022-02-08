@@ -24,6 +24,7 @@ int main() {
     count=count+1;
   }
     printf("Sum is:%d",sum);
+
   return 0;
 }
 
